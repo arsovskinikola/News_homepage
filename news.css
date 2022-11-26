@@ -1,0 +1,43 @@
+#big-card {
+    width: 1200px;
+    height: auto;
+}
+#mainbody {
+    width: 1200px;
+    height: auto;
+}
+h1 {
+    font-weight: bolder;
+}
+#right-side {
+    background-color: rgb(12, 12, 51);
+}
+#right-side h1 {
+    color: yellow;
+    
+}
+#right-side section {
+    padding-top: 20px;
+    padding-left: 10px;
+}
+#right-side h4 {
+    color: whitesmoke;
+    font-size: 18px;
+    
+    font-weight: bolder;
+}
+#right-side hr {
+    border: 1px solid white;
+}
+#right-side p {
+    color: whitesmoke;
+    font-size: 14px;
+}
+/* right side padding class */
+.rs-padding {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#cards {
+    border: 0;
+}
